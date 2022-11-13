@@ -10,3 +10,6 @@ have found throughout my learning.
 
 11/12/22: I haven't been able to work on TOP for awhile. I have been busy. But I am going to try and get back into the rthym. I am going to relearn all my notes and review the contents. Here we go.
 
+11/13/22: HTML has been reviewed. I think I am getting a hang of it. My notes was thorough so I didn't have much trouble going through them. I think I'll be okay. Next up is CSS foundation.
+
+
